@@ -1,0 +1,46 @@
+Name:	telegram-cli
+State:	S (sleeping)
+Tgid:	28062
+Ngid:	0
+Pid:	28062
+PPid:	28056
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	256
+Groups:	0 
+NStgid:	28062
+NSpid:	28062
+NSpgid:	28056
+NSsid:	28056
+VmPeak:	  275896 kB
+VmSize:	  275896 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	   27100 kB
+VmRSS:	   27100 kB
+VmData:	  213064 kB
+VmStk:	     136 kB
+VmExe:	    3396 kB
+VmLib:	    6656 kB
+VmPTE:	     176 kB
+VmPMD:	      12 kB
+VmSwap:	       0 kB
+Threads:	1
+SigQ:	0/7917
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	00000001800046e6
+CapInh:	0000000000000000
+CapPrm:	0000003fffffffff
+CapEff:	0000003fffffffff
+CapBnd:	0000003fffffffff
+Seccomp:	0
+Cpus_allowed:	1
+Cpus_allowed_list:	0
+Mems_allowed:	00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	13
+nonvoluntary_ctxt_switches:	447
